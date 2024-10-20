@@ -1,261 +1,30 @@
 [
-	[
-		'id'=> 388,
-        'brand_id' => 17,
-		'fipe_code'=> '013010-9',
-		'model'=> 'Avenger ES 2.0\/2.5 16V',
-		'years'=> '1994 a 1995'
-    ],
-	[
-		'id'=> 389,
-        'brand_id' => 17,
-		'fipe_code'=> '013004-4',
-		'model'=> 'Dakota 2.5',
-		'years'=> '1998 a 2001'
-    ],
-	[
-		'id'=> 390,
-        'brand_id' => 17,
-		'fipe_code'=> '013013-3',
-		'model'=> 'Dakota Club 2.5',
-		'years'=> '1995 a 1995'
-    ],
-	[
-		'id'=> 391,
-        'brand_id' => 17,
-		'fipe_code'=> '013015-0',
-		'model'=> 'Dakota Durango 5.9 4x4 V8',
-		'years'=> '1998 a 2000'
-    ],
-	[
-		'id'=> 392,
-        'brand_id' => 17,
-		'fipe_code'=> '013016-8',
-		'model'=> 'Dakota Durango SLT 5.2 4x4 V8',
-		'years'=> '1998 a 2000'
-    ],
-	[
-		'id'=> 394,
-        'brand_id' => 17,
-		'fipe_code'=> '013018-4',
-		'model'=> 'Dakota RT 5.2 Aut.',
-		'years'=> '2000 a 2001'
-    ],
-	[
-		'id'=> 395,
-        'brand_id' => 17,
-		'fipe_code'=> '013019-2',
-		'model'=> 'Dakota RT 5.2 CE Aut.',
-		'years'=> '2000 a 2001'
-    ],
-	[
-		'id'=> 396,
-        'brand_id' => 17,
-		'fipe_code'=> '013014-1',
-		'model'=> 'Dakota Sport 2.5 4x4',
-		'years'=> '1995 a 1995'
-    ],
-	[
-		'id'=> 397,
-        'brand_id' => 17,
-		'fipe_code'=> '013022-2',
-		'model'=> 'Dakota Sport 2.5 CD Diesel',
-		'years'=> '2001 a 2001'
-    ],
-	[
-		'id'=> 398,
-        'brand_id' => 17,
-		'fipe_code'=> '013006-0',
-		'model'=> 'Dakota Sport 2.5 Diesel',
-		'years'=> '1999 a 2001'
-    ],
-	[
-		'id'=> 399,
-        'brand_id' => 17,
-		'fipe_code'=> '013005-2',
-		'model'=> 'Dakota Sport 3.9 V6',
-		'years'=> '1998 a 2001'
-    ],
-	[
-		'id'=> 400,
-        'brand_id' => 17,
-		'fipe_code'=> '013021-4',
-		'model'=> 'Dakota Sport 3.9 V6 CD Aut.',
-		'years'=> '2001 a 2001'
-    ],
-	[
-		'id'=> 401,
-        'brand_id' => 17,
-		'fipe_code'=> '013020-6',
-		'model'=> 'Dakota Sport 3.9 V6 CD Mec.',
-		'years'=> '2001 a 2001'
-    ],
-	[
-		'id'=> 402,
-        'brand_id' => 17,
-		'fipe_code'=> '013011-7',
-		'model'=> 'Dakota Sport 5.2 V8',
-		'years'=> '1997 a 2000'
-    ],
-	[
-		'id'=> 403,
-        'brand_id' => 17,
-		'fipe_code'=> '013023-0',
-		'model'=> 'Dakota Sport 5.2 V8 CD Aut.',
-		'years'=> '2001 a 2001'
-    ],
-	[
-		'id'=> 404,
-        'brand_id' => 17,
-		'fipe_code'=> '013008-7',
-		'model'=> 'Dakota Sport CE 2.5 Diesel',
-		'years'=> '1999 a 2001'
-    ],
-	[
-		'id'=> 405,
-        'brand_id' => 17,
-		'fipe_code'=> '013007-9',
-		'model'=> 'Dakota Sport CE 3.9 V6',
-		'years'=> '1998 a 2001'
-    ],
-	[
-		'id'=> 6316,
-        'brand_id' => 17,
-		'fipe_code'=> '013034-6',
-		'model'=> 'Durango Citadel 3.6 24V 4x4 Aut.',
-		'years'=> '2013 a 2013'
-    ],
-	[
-		'id'=> 6317,
-        'brand_id' => 17,
-		'fipe_code'=> '013035-4',
-		'model'=> 'Durango Crew 3.6 24V 4x4 Aut.',
-		'years'=> '2012 a 2013'
-    ],
-	[
-		'id'=> 7131,
-        'brand_id' => 17,
-		'fipe_code'=> '013038-9',
-		'model'=> 'Durango Limited 3.6 24V 4x4 Aut.',
-		'years'=> '2015 a 2015'
-    ],
-	[
-		'id'=> 393,
-        'brand_id' => 17,
-		'fipe_code'=> '013017-6',
-		'model'=> 'Intrepid 3.3 V6',
-		'years'=> '1993 a 1993'
-    ],
-	[
-		'id'=> 6953,
-        'brand_id' => 17,
-		'fipe_code'=> '013037-0',
-		'model'=> 'JOURNEY Crossroad 3.6 V6 Aut.',
-		'years'=> '2014 a 2015'
-    ],
-	[
-		'id'=> 5695,
-        'brand_id' => 17,
-		'fipe_code'=> '013031-1',
-		'model'=> 'JOURNEY RT  3.6 V6 Aut.',
-		'years'=> '2011 a 2018'
-    ],
-	[
-		'id'=> 5238,
-        'brand_id' => 17,
-		'fipe_code'=> '013029-0',
-		'model'=> 'JOURNEY RT 2.7 V6 185cv Aut.',
-		'years'=> '2010 a 2011'
-    ],
-	[
-		'id'=> 6954,
-        'brand_id' => 17,
-		'fipe_code'=> '013036-2',
-		'model'=> 'JOURNEY RT 3.6 AWD V6 Aut.',
-		'years'=> '2014 a 2016'
-    ],
-	[
-		'id'=> 5270,
-        'brand_id' => 17,
-		'fipe_code'=> '013030-3',
-		'model'=> 'JOURNEY SE 2.7 V6 185cv Aut.',
-		'years'=> '2010 a 2010'
-    ],
-	[
-		'id'=> 4732,
-        'brand_id' => 17,
-		'fipe_code'=> '013027-3',
-		'model'=> 'JOURNEY SXT 2.7 V6 185cv Aut.',
-		'years'=> '2009 a 2011'
-    ],
-	[
-		'id'=> 5694,
-        'brand_id' => 17,
-		'fipe_code'=> '013032-0',
-		'model'=> 'JOURNEY SXT 3.6 V6 Aut.',
-		'years'=> '2012 a 2015'
-    ],
-	[
-		'id'=> 406,
-        'brand_id' => 17,
-		'fipe_code'=> '013024-9',
-		'model'=> 'Ram 2500 H.DUTY 5.9 SLT 24V CD 4x4 Dies.',
-		'years'=> '2004 a 2009'
-    ],
-	[
-		'id'=> 3931,
-        'brand_id' => 17,
-		'fipe_code'=> '013025-7',
-		'model'=> 'Ram 2500 H.DUTY 5.9 SLT TDI CS 4x4 Dies.',
-		'years'=> '2006 a 2009'
-    ],
-	[
-		'id'=> 5924,
-        'brand_id' => 17,
-		'fipe_code'=> '013033-8',
-		'model'=> 'Ram 2500 LARAMIE 6.7 TDI CD 4x4 Dies',
-		'years'=> '2012 a 2012'
-    ],
-	[
-		'id'=> 5150,
-        'brand_id' => 17,
-		'fipe_code'=> '013028-1',
-		'model'=> 'Ram 2500 TROPIVAN 5.9 SLT Exec.TDI Dies.',
-		'years'=> '2010 a 2010'
-    ],
-	[
-		'id'=> 4575,
-        'brand_id' => 17,
-		'fipe_code'=> '013026-5',
-		'model'=> 'Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.',
-		'years'=> '2005 a 2010'
-    ],
-	[
-		'id'=> 407,
-        'brand_id' => 17,
-		'fipe_code'=> '013003-6',
-		'model'=> 'Ram Laramie 5.9 V8',
-		'years'=> '1994 a 1995'
-    ],
-	[
-		'id'=> 408,
-        'brand_id' => 17,
-		'fipe_code'=> '013002-8',
-		'model'=> 'Ram Laramie\/SLT 5.2 V8',
-		'years'=> '1994 a 1996'
-    ],
-	[
-		'id'=> 409,
-        'brand_id' => 17,
-		'fipe_code'=> '013001-0',
-		'model'=> 'Ram Sport 5.9 V8',
-		'years'=> '1994 a 2001'
-    ],
-	[
-		'id'=> 410,
-        'brand_id' => 17,
-		'fipe_code'=> '013009-5',
-		'model'=> 'Stealth 3.0 MPI',
-		'years'=> '1992 a 1994'
-    ]
+	["id"=> 102,"name"=> "AGRALE"],
+	["id"=> 206,"name"=> "BEPOBUS"],
+	["id"=> 103,"name"=> "CHEVROLET"],
+	["id"=> 121,"name"=> "CICCOBUS"],
+	["id"=> 197,"name"=> "DAF"],
+	["id"=> 179,"name"=> "EFFA-JMC"],
+	["id"=> 104,"name"=> "FIAT"],
+	["id"=> 105,"name"=> "FORD"],
+	["id"=> 191,"name"=> "FOTON"],
+	["id"=> 106,"name"=> "GMC"],
+	["id"=> 181,"name"=> "HYUNDAI"],
+	["id"=> 122,"name"=> "IVECO"],
+	["id"=> 188,"name"=> "JAC"],
+	["id"=> 184,"name"=> "MAN"],
+	["id"=> 108,"name"=> "MARCOPOLO"],
+	["id"=> 196,"name"=> "MASCARELLO"],
+	["id"=> 194,"name"=> "MAXIBUS"],
+	["id"=> 109,"name"=> "MERCEDES-BENZ"],
+	["id"=> 110,"name"=> "NAVISTAR"],
+	["id"=> 111,"name"=> "NEOBUS"],
+	["id"=> 112,"name"=> "PUMA-ALFA"],
+	["id"=> 113,"name"=> "SAAB-SCANIA"],
+	["id"=> 114,"name"=> "SCANIA"],
+	["id"=> 193,"name"=> "SHACMAN"],
+	["id"=> 166,"name"=> "SINOTRUK"],
+	["id"=> 115,"name"=> "VOLKSWAGEN"],
+	["id"=> 116,"name"=> "VOLVO"],
+	["id"=> 144,"name"=> "WALKBUS"]
 ]
