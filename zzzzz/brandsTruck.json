@@ -1,0 +1,114 @@
+[
+	{
+		"id": 102,
+		"brand": "AGRALE"
+	},
+	{
+		"id": 206,
+		"brand": "BEPOBUS"
+	},
+	{
+		"id": 103,
+		"brand": "CHEVROLET"
+	},
+	{
+		"id": 121,
+		"brand": "CICCOBUS"
+	},
+	{
+		"id": 197,
+		"brand": "DAF"
+	},
+	{
+		"id": 179,
+		"brand": "EFFA-JMC"
+	},
+	{
+		"id": 104,
+		"brand": "FIAT"
+	},
+	{
+		"id": 105,
+		"brand": "FORD"
+	},
+	{
+		"id": 191,
+		"brand": "FOTON"
+	},
+	{
+		"id": 106,
+		"brand": "GMC"
+	},
+	{
+		"id": 181,
+		"brand": "HYUNDAI"
+	},
+	{
+		"id": 122,
+		"brand": "IVECO"
+	},
+	{
+		"id": 188,
+		"brand": "JAC"
+	},
+	{
+		"id": 184,
+		"brand": "MAN"
+	},
+	{
+		"id": 108,
+		"brand": "MARCOPOLO"
+	},
+	{
+		"id": 196,
+		"brand": "MASCARELLO"
+	},
+	{
+		"id": 194,
+		"brand": "MAXIBUS"
+	},
+	{
+		"id": 109,
+		"brand": "MERCEDES-BENZ"
+	},
+	{
+		"id": 110,
+		"brand": "NAVISTAR"
+	},
+	{
+		"id": 111,
+		"brand": "NEOBUS"
+	},
+	{
+		"id": 112,
+		"brand": "PUMA-ALFA"
+	},
+	{
+		"id": 113,
+		"brand": "SAAB-SCANIA"
+	},
+	{
+		"id": 114,
+		"brand": "SCANIA"
+	},
+	{
+		"id": 193,
+		"brand": "SHACMAN"
+	},
+	{
+		"id": 166,
+		"brand": "SINOTRUK"
+	},
+	{
+		"id": 115,
+		"brand": "VOLKSWAGEN"
+	},
+	{
+		"id": 116,
+		"brand": "VOLVO"
+	},
+	{
+		"id": 144,
+		"brand": "WALKBUS"
+	}
+]
