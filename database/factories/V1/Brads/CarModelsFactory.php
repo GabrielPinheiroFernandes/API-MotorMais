@@ -1,13 +1,13 @@
 <?php
 
-namespace Database\Factories\Brads;
+namespace Database\Factories\V1\Brads;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Brads\BikeModels>
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\V1\Brads\CarModels>
  */
-class BikeModelsFactory extends Factory
+class CarModelsFactory extends Factory
 {
     /**
      * Define the model's default state.

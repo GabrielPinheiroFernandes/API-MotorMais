@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Models\Brads;
+namespace App\Models\V1;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class TruckModels extends Model
+class Category extends Model
 {
     use HasFactory;
 }

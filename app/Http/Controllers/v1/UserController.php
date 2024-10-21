@@ -1,10 +1,11 @@
 <?php
 
-namespace App\Http\Controllers\v1;
+namespace App\Http\Controllers\V1;
 
 use App\Http\Controllers\Controller;
-use App\Http\Resources\v1\UserResource;
-use App\Models\User;
+use App\Http\Resources\V1\UserResource;
+
+use App\Models\V1\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;

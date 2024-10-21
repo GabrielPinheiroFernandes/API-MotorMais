@@ -1,11 +1,11 @@
 <?php
 
-namespace Database\Factories\Brads;
+namespace Database\Factories\V1\Brads;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Brads\TruckBrands>
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\V1\Brads\TruckBrands>
  */
 class TruckBrandsFactory extends Factory
 {

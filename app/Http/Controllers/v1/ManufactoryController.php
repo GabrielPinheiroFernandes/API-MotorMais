@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\v1;
+namespace App\Http\Controllers\V1;
 
 use App\Http\Controllers\Controller;
-use App\Http\Resources\v1\ManufactoryResource;
-use App\Models\Manufactory;
+use App\Http\Resources\V1\ManufactoryResource;
+use App\Models\V1\Manufactory;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;

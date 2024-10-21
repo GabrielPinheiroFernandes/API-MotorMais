@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\v1;
+namespace App\Http\Controllers\V1;
 
 use App\Http\Controllers\Controller;
-use App\Http\Resources\v1\CategoryResource;
-use App\Models\Category;
+use App\Http\Resources\V1\CategoryResource;
+use App\Models\V1\Category;
 use Auth;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
